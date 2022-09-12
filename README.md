@@ -2,4 +2,4 @@
 
 # Spotter Introduction Website
 
-[Link to website](https://spotter-find-your-spot.github.io/spotter-intro-website/)
+[Link to website](https://spotter-find-your-spot.github.io/spotter-intro-webpage/)
