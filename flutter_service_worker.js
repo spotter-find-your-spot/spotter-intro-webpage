@@ -3,9 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+  "assets/AssetManifest.json": "63c7e035db673b62294b435be9cba064",
+"assets/FontManifest.json": "efa0386c23e19c8788832c4fb370b183",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/fonts/montserrat_400.ttf": "3fe868a1a9930b59d94d2c1d79461e3c",
+"assets/fonts/montserrat_500.ttf": "b3ba703c591edd4aad57f8f4561a287b",
+"assets/fonts/montserrat_700.ttf": "1f023b349af1d79a72740f4cc881a310",
 "assets/NOTICES": "c202d42c066a1132cb0fd553329a65e1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "3657c44c77e3a6aae02f6e56d97c3855",
@@ -15,9 +18,9 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "favicon.ico": "bdd8dc4619b2fdf4a5572d8d8b483f7d",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
-"index.html": "6c287d1a1410255d551979bd01866985",
-"/": "6c287d1a1410255d551979bd01866985",
-"main.dart.js": "a20bcceceda2fbc1928e8af4d58865a1",
+"index.html": "284c2154f4410b448b526c68526754ed",
+"/": "284c2154f4410b448b526c68526754ed",
+"main.dart.js": "b9666db0278ce5f750817817d3a1b120",
 "manifest.json": "f0967f2d0b1267d48c916a2acc62bc86",
 "version.json": "48cf49f1309c2e28f2d8735c3d1410b0"
 };
